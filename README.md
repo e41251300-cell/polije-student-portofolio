@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # studi_kasus_1
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# polije-student-portofolio
+portofolio niha
+>>>>>>> f2860c712c3749fccd234f2a72710e65186b472f
